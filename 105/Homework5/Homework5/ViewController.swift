@@ -31,7 +31,6 @@ class ViewController: UIViewController {
     
 }
 extension ViewController {
-    
     /// Configure CalculatorView on root view
     private func ConfigureCalculatorViewOnView() {
         NSLayoutConstraint.activate([
